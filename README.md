@@ -1,6 +1,6 @@
 <script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/okdx" ></script>
 
-## Welcome to GitHub Pages
+## Gucci Gang
 
 You can use the [editor on GitHub](https://github.com/DailanPatel24/DailanPatel24.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
